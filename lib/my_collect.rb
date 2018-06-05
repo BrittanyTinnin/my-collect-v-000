@@ -10,6 +10,6 @@ def my_collect(collection)
   cap_collection
 end
 
-my_collect(collection) do |lang|
-  lang.upcase
-end
+# my_collect(collection) do |lang|
+#   lang.upcase
+# end
