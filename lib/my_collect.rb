@@ -1,10 +1,11 @@
 
 
 def my_collect(collection)
-  empty_array = []
+  cap_collection = []
    i = 0
   while i < collection.length
 
     i += 1
   end
+  
 end
