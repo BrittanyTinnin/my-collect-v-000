@@ -6,6 +6,6 @@ def my_collect(collection)
 
 end
 
-my_collect(languages) do |language|
-  empty_array << language.upcase
-end
+# my_collect(languages) do |language|
+#   empty_array << language.upcase
+# end
