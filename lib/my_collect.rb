@@ -6,4 +6,3 @@ def my_collect(collection)
     puts empty_array << language.upcase
   end
 end
-
