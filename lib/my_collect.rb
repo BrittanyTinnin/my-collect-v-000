@@ -2,7 +2,7 @@
 
 def my_collect(collection)
   empty_array = []
-
+  empty_array << collection.upcase
 
 end
 
