@@ -2,7 +2,6 @@
 
 def my_collect(collection)
   empty_array = []
-  counter = 0
   
 
 end
